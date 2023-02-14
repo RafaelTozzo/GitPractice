@@ -10,7 +10,7 @@
         public static void Menu()
         {
             Console.Clear();
-            Console.Write("Selecione a opção desejada:\n1-Soma\n2-Subtração\n3-Lista Soma\n4-Multiplicação\n5-Sair\nOpção selecionada: ");
+            Console.Write("Selecione a opção desejada:\n1-Soma\n2-Subtração\n3-Lista Soma\n4-Fibonacci\n5-Sair\nOpção selecionada: ");
 
             byte enterOption = byte.Parse(Console.ReadLine()!);
             if (enterOption < 1 || enterOption > 5)
@@ -32,6 +32,7 @@
                     SumList();
                     break;
                 case 4:
+                    Fibonacci();
                     break;
                 case 5:
                     break;
@@ -85,6 +86,21 @@
                 total += n1;
             }
             Console.WriteLine($"Soma total: {total.ToString("#.00")}");
+
+            RestartCalculator();
+        }
+
+        static void Fibonacci()
+        {
+            int n1 = 0;
+            int fib = 1;
+
+            while (fib <= 100)
+            {
+                Console.Write($"{n1} {fib} ");
+                n1 = n1 + fib;
+                fib = fib + n1;
+            }
 
             RestartCalculator();
         }
