@@ -1,0 +1,15 @@
+C:\Users\Rafael\Ti\Kumulus\GitPractice\obj\Debug\net6.0\GitPractice.csproj.AssemblyReference.cache
+C:\Users\Rafael\Ti\Kumulus\GitPractice\obj\Debug\net6.0\GitPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Ti\Kumulus\GitPractice\obj\Debug\net6.0\GitPractice.AssemblyInfoInputs.cache
+C:\Users\Rafael\Ti\Kumulus\GitPractice\obj\Debug\net6.0\GitPractice.AssemblyInfo.cs
+C:\Users\Rafael\Ti\Kumulus\GitPractice\obj\Debug\net6.0\GitPractice.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Ti\Kumulus\GitPractice\bin\Debug\net6.0\GitPractice.exe
+C:\Users\Rafael\Ti\Kumulus\GitPractice\bin\Debug\net6.0\GitPractice.deps.json
+C:\Users\Rafael\Ti\Kumulus\GitPractice\bin\Debug\net6.0\GitPractice.runtimeconfig.json
+C:\Users\Rafael\Ti\Kumulus\GitPractice\bin\Debug\net6.0\GitPractice.dll
+C:\Users\Rafael\Ti\Kumulus\GitPractice\bin\Debug\net6.0\GitPractice.pdb
+C:\Users\Rafael\Ti\Kumulus\GitPractice\obj\Debug\net6.0\GitPractice.dll
+C:\Users\Rafael\Ti\Kumulus\GitPractice\obj\Debug\net6.0\refint\GitPractice.dll
+C:\Users\Rafael\Ti\Kumulus\GitPractice\obj\Debug\net6.0\GitPractice.pdb
+C:\Users\Rafael\Ti\Kumulus\GitPractice\obj\Debug\net6.0\GitPractice.genruntimeconfig.cache
+C:\Users\Rafael\Ti\Kumulus\GitPractice\obj\Debug\net6.0\ref\GitPractice.dll
