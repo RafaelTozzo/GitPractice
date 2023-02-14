@@ -9,6 +9,7 @@
 
         public static void Menu()
         {
+            Console.Clear();
             Console.Write("Selecione a opção desejada:\n1-Soma\n2-Subtração\n3-Divisão\n4-Multiplicação\n5-Sair\nOpção selecionada: ");
 
             byte enterOption = byte.Parse(Console.ReadLine()!);
@@ -41,6 +42,8 @@
 
         static void Sum()
         {
+            Console.Clear();
+            Console.WriteLine("Operação: Soma");
             Console.Write("Digite 2 valores:\n1º valor: ");
             var n1 = double.Parse(Console.ReadLine()!);
             Console.Write("2º valor: ");
@@ -54,6 +57,8 @@
 
         static void Subtraction()
         {
+            Console.Clear();
+            Console.WriteLine("Operação: Subtração");
             Console.Write("Digite 2 valores:\n1º valor: ");
             var n1 = double.Parse(Console.ReadLine()!);
             Console.Write("2º valor: ");
