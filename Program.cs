@@ -108,7 +108,7 @@
         static void RestartCalculator()
         {
             Console.WriteLine("");
-            Console.WriteLine("Pressione qualquer tecla para voltar para o menu.");
+            Console.WriteLine("Pressione qualquer tecla para voltar para o menu!");
             Console.WriteLine("");
             Console.ReadKey();
             Menu();
